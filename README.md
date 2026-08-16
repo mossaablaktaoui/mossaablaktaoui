@@ -24,21 +24,28 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=python,c,markdown&perline=6" 
+      src="https://skillicons.dev/icons?i=python,c,markdown,css,qt,lua&perline=6" 
     />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=git,linux,bash,mysql&perline=6" 
+      src="https://skillicons.dev/icons?i=git,linux,arch,bash,mysql&perline=6" 
     />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=qt,vim,vscode,notion,obsidian&perline=6" 
+      src="https://skillicons.dev/icons?i=vim,neovim,vscode,notion,obsidian&perline=6" 
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=figma&perline=6" 
     />
   </a>
 </p>
